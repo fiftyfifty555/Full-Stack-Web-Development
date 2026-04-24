@@ -12,3 +12,9 @@ The project includes AJAX-based dynamic news updates, allowing changes made by a
 The application also demonstrates database locking mechanisms for concurrent user operations. In particular, it compares an incorrect scenario without table locking, where duplicate bills can be created, with a correct scenario using `LOCK TABLES`, which prevents duplicate charge creation for the same meter or tariff within the same billing period.
 
 Technologies used: PHP, MySQL, HTML, CSS, JavaScript, AJAX, Apache.
+
+
+## Project Files
+
+- [Course Report PDF](Отчет%20Ковальский%20ССП%20(1).pdf)
+- [Project Checklist PDF](ССП%20чек-лист%20Ковальский%20(1).pdf)
